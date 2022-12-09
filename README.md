@@ -2,6 +2,8 @@
 
 This project is about how to create different directories and files and collaborate with other users on a project. 
 
+This project will also have a significant portion dedicated to giraffes.
+
 ## License
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
